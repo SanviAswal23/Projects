@@ -1,17 +1,11 @@
-<<<<<<< HEAD
-# React + Vite
+Projects Repository
+Welcome to my Projects repository! This repo contains various projects I've built to improve my skills in web development and programming.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+What’s inside?
+Basic Portfolio Website: A personal site showcasing my skills and projects.
 
-Currently, two official plugins are available:
+Simon Says Game: A classic memory game built to practice JavaScript and UI interactions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Todo App: A React-based task manager that helps organize daily tasks with categories.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Projects
-This repo includes all the projects made using web dev tools 
->>>>>>> 14a5d49893b74b5d3c428d576d3f573be5186c54
+These projects have helped me grow as a developer by applying concepts like React, JavaScript, and UI/UX design. I'm continually learning and improving, and many more exciting projects are on the way!
