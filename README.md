@@ -1,7 +1,9 @@
 Projects Repository
+
 Welcome to my Projects repository! This repo contains various projects I've built to improve my skills in web development and programming.
 
 What’s inside?
+
 Basic Portfolio Website: A personal site showcasing my skills and projects.
 
 Simon Says Game: A classic memory game built to practice JavaScript and UI interactions.
